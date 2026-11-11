@@ -1,4 +1,4 @@
 {
   "cleanUrls": true,
-  "redirects": [{ "source": "/profile", "destination": "/", "permanent": true }]
+  "redirects": [{ "source": "/", "destination": "/Profile", "permanent": false }]
 }

@@ -4,9 +4,9 @@ Personal profile page — Senior Software Engineer · Cloud & Enterprise Archite
 
 ## Contents
 
-- `index.html` — single-file profile page (open directly in a browser)
+- `Profile/index.html` — single-file profile page, served at `/Profile`
 - `assets/` — banner and profile images
 
 ## View
 
-Open `index.html` in any browser, or enable GitHub Pages for this repo to host it.
+Deployed on Vercel at https://framegenai.cloud/Profile (the site root redirects there).
